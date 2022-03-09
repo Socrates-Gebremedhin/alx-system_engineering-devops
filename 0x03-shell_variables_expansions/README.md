@@ -1,0 +1,1 @@
+answers for variables expansions
